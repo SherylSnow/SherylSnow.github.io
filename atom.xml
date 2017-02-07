@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/SherylSnow/"/>
-  <updated>2017-02-05T16:44:15.000Z</updated>
+  <updated>2017-02-06T07:08:55.000Z</updated>
   <id>https://github.com/SherylSnow/</id>
   
   <author>
@@ -16,18 +16,41 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>my wokrs</title>
-    <link href="https://github.com/SherylSnow/2017/02/06/my-wokrs/"/>
-    <id>https://github.com/SherylSnow/2017/02/06/my-wokrs/</id>
-    <published>2017-02-05T16:44:15.000Z</published>
-    <updated>2017-02-05T16:44:15.000Z</updated>
+    <title>practice</title>
+    <link href="https://github.com/SherylSnow/2017/02/06/practice/"/>
+    <id>https://github.com/SherylSnow/2017/02/06/practice/</id>
+    <published>2017-02-06T07:08:55.000Z</published>
+    <updated>2017-02-06T07:08:55.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="这是我的第一篇博客。"><a href="#这是我的第一篇博客。" class="headerlink" title="这是我的第一篇博客。"></a>这是我的第一篇博客。</h2><h3 id="团队网站视觉稿"><a href="#团队网站视觉稿" class="headerlink" title="团队网站视觉稿"></a>团队网站视觉稿</h3><p><img src="https://github.com/SherylSnow/sheryl-works/blob/master/jumpout-v2.1.gif?raw=true" alt="jumpout"></p>
+    <content type="html"><![CDATA[<h2 id="手绘板练习"><a href="#手绘板练习" class="headerlink" title="手绘板练习"></a>手绘板练习</h2><p>没事的事情喜欢画下美女。<br>画画的时候基本上脑子里是放空的。<br>这幅美女是我在网上找的照片，看上去很阳光给自己一点正能量的说~~哈哈哈</p>
+<p><img src="https://github.com/SherylSnow/sheryl-works/blob/master/Hand/Beauty.png?raw=true" alt="jumpout"></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;这是我的第一篇博客。&quot;&gt;&lt;a href=&quot;#这是我的第一篇博客。&quot; class=&quot;headerlink&quot; title=&quot;这是我的第一篇博客。&quot;&gt;&lt;/a&gt;这是我的第一篇博客。&lt;/h2&gt;&lt;h3 id=&quot;团队网站视觉稿&quot;&gt;&lt;a href=&quot;#团队网站视觉稿&quot; class
+      &lt;h2 id=&quot;手绘板练习&quot;&gt;&lt;a href=&quot;#手绘板练习&quot; class=&quot;headerlink&quot; title=&quot;手绘板练习&quot;&gt;&lt;/a&gt;手绘板练习&lt;/h2&gt;&lt;p&gt;没事的事情喜欢画下美女。&lt;br&gt;画画的时候基本上脑子里是放空的。&lt;br&gt;这幅美女是我在网上找的照片，看上去很阳光给自
+    
+    </summary>
+    
+    
+      <category term="手绘练习" scheme="https://github.com/SherylSnow/tags/%E6%89%8B%E7%BB%98%E7%BB%83%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Jump out第一版</title>
+    <link href="https://github.com/SherylSnow/2017/02/06/my-wokrs/"/>
+    <id>https://github.com/SherylSnow/2017/02/06/my-wokrs/</id>
+    <published>2017-02-06T07:08:55.000Z</published>
+    <updated>2017-02-06T07:08:55.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Jump-out第一版"><a href="#Jump-out第一版" class="headerlink" title="Jump out第一版"></a>Jump out第一版</h2><h3 id="Jumpout是我们团队的一个网站，这一版是第一版的视觉稿。"><a href="#Jumpout是我们团队的一个网站，这一版是第一版的视觉稿。" class="headerlink" title="Jumpout是我们团队的一个网站，这一版是第一版的视觉稿。"></a>Jumpout是我们团队的一个网站，这一版是第一版的视觉稿。</h3><p>设计这版时我正在自学AE，喜欢AE里面星星点点的效果。<br>喜欢很炫的感觉，所以就作了这版，奇哥蛮喜欢的。<br>这也算是个飞机稿了毕竟最后没用。应为有点花哨</p>
+<p><img src="https://github.com/SherylSnow/sheryl-works/blob/master/jumpout-v2.1.gif?raw=true" alt="jumpout"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Jump-out第一版&quot;&gt;&lt;a href=&quot;#Jump-out第一版&quot; class=&quot;headerlink&quot; title=&quot;Jump out第一版&quot;&gt;&lt;/a&gt;Jump out第一版&lt;/h2&gt;&lt;h3 id=&quot;Jumpout是我们团队的一个网站，这一版是第一版的视觉稿
     
     </summary>
     
@@ -37,49 +60,23 @@
   </entry>
   
   <entry>
-    <title>practice</title>
-    <link href="https://github.com/SherylSnow/2017/02/06/practice/"/>
-    <id>https://github.com/SherylSnow/2017/02/06/practice/</id>
-    <published>2017-02-05T16:44:15.000Z</published>
-    <updated>2017-02-05T16:44:15.000Z</updated>
+    <title>jump-out</title>
+    <link href="https://github.com/SherylSnow/2017/02/05/hello-world/"/>
+    <id>https://github.com/SherylSnow/2017/02/05/hello-world/</id>
+    <published>2017-02-05T15:08:37.000Z</published>
+    <updated>2017-02-06T08:11:11.000Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="练习博客"><a href="#练习博客" class="headerlink" title="练习博客"></a>练习博客</h1>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;练习博客&quot;&gt;&lt;a href=&quot;#练习博客&quot; class=&quot;headerlink&quot; title=&quot;练习博客&quot;&gt;&lt;/a&gt;练习博客&lt;/h1&gt;
-    
-    </summary>
-    
-    
-      <category term="练习" scheme="https://github.com/SherylSnow/tags/%E7%BB%83%E4%B9%A0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://github.com/SherylSnow/2017/02/06/hello-world/"/>
-    <id>https://github.com/SherylSnow/2017/02/06/hello-world/</id>
-    <published>2017-02-05T16:29:06.000Z</published>
-    <updated>2017-02-05T16:29:06.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+    <content type="html"><![CDATA[<h2 id="Jump-out第二版"><a href="#Jump-out第二版" class="headerlink" title="Jump out第二版"></a>Jump out第二版</h2><h3 id="Jumpout是我们团队的一个网站，这一版是第二版的视觉稿。"><a href="#Jumpout是我们团队的一个网站，这一版是第二版的视觉稿。" class="headerlink" title="Jumpout是我们团队的一个网站，这一版是第二版的视觉稿。"></a>Jumpout是我们团队的一个网站，这一版是第二版的视觉稿。</h3><p>设计这版时我正在看一本”原研哉的设计中的设计”一本很厚的书。<br>以前很不喜欢看书，看着就睡觉~~<br>看了这本书突然发现想法确实不一样就开始有些兴趣。<br>虽然很多看的不是很懂~~<br>但是在里面理解到由简到繁再简~~~<br>随后就作了一下这个<br>其实有gif 的交互效果图，我觉得有点大，暂时先不放了~<br><img src="https://github.com/SherylSnow/sheryl-works/blob/master/Hand/sucai_01.png?raw=true" alt="jumpout"><br><img src="https://github.com/SherylSnow/sheryl-works/blob/master/Hand/sucai_02.png?raw=true" alt="jumpout"><br><img src="https://github.com/SherylSnow/sheryl-works/blob/master/Hand/sucai_03.png?raw=true" alt="jumpout"><br><img src="https://github.com/SherylSnow/sheryl-works/blob/master/Hand/sucai_04.png?raw=true" alt="jumpout"></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      &lt;h2 id=&quot;Jump-out第二版&quot;&gt;&lt;a href=&quot;#Jump-out第二版&quot; class=&quot;headerlink&quot; title=&quot;Jump out第二版&quot;&gt;&lt;/a&gt;Jump out第二版&lt;/h2&gt;&lt;h3 id=&quot;Jumpout是我们团队的一个网站，这一版是第二版的视觉稿
     
     </summary>
     
+    
+      <category term="jump out" scheme="https://github.com/SherylSnow/tags/jump-out/"/>
     
   </entry>
   
@@ -88,14 +85,17 @@
     <link href="https://github.com/SherylSnow/2017/02/05/jump-out/"/>
     <id>https://github.com/SherylSnow/2017/02/05/jump-out/</id>
     <published>2017-02-05T15:08:37.000Z</published>
-    <updated>2017-02-05T16:23:05.000Z</updated>
+    <updated>2017-02-06T07:08:55.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="这是我的第一篇博客。"><a href="#这是我的第一篇博客。" class="headerlink" title="这是我的第一篇博客。"></a>这是我的第一篇博客。</h2><h3 id="团队网站视觉稿"><a href="#团队网站视觉稿" class="headerlink" title="团队网站视觉稿"></a>团队网站视觉稿</h3><p><img src="https://github.com/SherylSnow/sheryl-works/blob/master/jumpout-v2.1.gif?raw=true" alt="jumpout"></p>
+    <content type="html"><![CDATA[<h2 id="Jump-out第二版"><a href="#Jump-out第二版" class="headerlink" title="Jump out第二版"></a>Jump out第二版</h2><h3 id="Jumpout是我们团队的一个网站，这一版是第二版的视觉稿。"><a href="#Jumpout是我们团队的一个网站，这一版是第二版的视觉稿。" class="headerlink" title="Jumpout是我们团队的一个网站，这一版是第二版的视觉稿。"></a>Jumpout是我们团队的一个网站，这一版是第二版的视觉稿。</h3><p>设计这版时我正在看一本”原研哉的设计中的设计”一本很厚的书。<br>以前很不喜欢看书，看着就睡觉~~<br>看了这本书突然发现想法确实不一样就开始有些兴趣。<br>虽然很多看的不是很懂~~<br>但是在里面理解到由简到繁再简~~~<br>随后就作了一下这个<br>其实有gif 的交互效果图，我觉得有点大，暂时先不放了~<br><img src="https://github.com/SherylSnow/sheryl-works/blob/master/web/JUMPOUT3home.png?raw=true" alt="jumpout"></p>
+<p><img src="https://github.com/SherylSnow/sheryl-works/blob/master/web/JUMPOUT3blog.png?raw=true" alt="jumpout"></p>
+<p><img src="https://github.com/SherylSnow/sheryl-works/blob/master/web/JUMPOUT3team.png?raw=true" alt="jumpout"></p>
+<p><img src="https://github.com/SherylSnow/sheryl-works/blob/master/web/JUMPOUT3work.png?raw=true" alt="jumpout"></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;这是我的第一篇博客。&quot;&gt;&lt;a href=&quot;#这是我的第一篇博客。&quot; class=&quot;headerlink&quot; title=&quot;这是我的第一篇博客。&quot;&gt;&lt;/a&gt;这是我的第一篇博客。&lt;/h2&gt;&lt;h3 id=&quot;团队网站视觉稿&quot;&gt;&lt;a href=&quot;#团队网站视觉稿&quot; class
+      &lt;h2 id=&quot;Jump-out第二版&quot;&gt;&lt;a href=&quot;#Jump-out第二版&quot; class=&quot;headerlink&quot; title=&quot;Jump out第二版&quot;&gt;&lt;/a&gt;Jump out第二版&lt;/h2&gt;&lt;h3 id=&quot;Jumpout是我们团队的一个网站，这一版是第二版的视觉稿
     
     </summary>
     
