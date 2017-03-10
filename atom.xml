@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/SherylSnow/"/>
-  <updated>2017-02-23T11:42:45.000Z</updated>
+  <updated>2017-03-10T02:44:18.000Z</updated>
   <id>https://github.com/SherylSnow/</id>
   
   <author>
@@ -14,6 +14,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>WebUi</title>
+    <link href="https://github.com/SherylSnow/2017/03/10/WebUi/"/>
+    <id>https://github.com/SherylSnow/2017/03/10/WebUi/</id>
+    <published>2017-03-10T02:35:19.000Z</published>
+    <updated>2017-03-10T02:44:18.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Selling-UI-规范"><a href="#Selling-UI-规范" class="headerlink" title="Selling UI 规范"></a>Selling UI 规范</h2><h3 id="selling-后台系统"><a href="#selling-后台系统" class="headerlink" title="selling 后台系统"></a>selling 后台系统</h3><p>selling是链接多个电商平台可以监控跟处理订单状态的系统平台</p>
+<ul>
+<li>下图是ui规范</li>
+</ul>
+<p><img src="https://github.com/SherylSnow/sheryl-works/blob/master/jumpout-v2.1.gif?raw=true" alt="jumpout"><br><img src="https://github.com/SherylSnow/sheryl-works/blob/master/jumpout-v2.1.gif?raw=true" alt="jumpout"><br><img src="https://github.com/SherylSnow/sheryl-works/blob/master/jumpout-v2.1.gif?raw=true" alt="jumpout"></p>
+<ul>
+<li>下图是首页的ui 效果图</li>
+</ul>
+<p><img src="https://github.com/SherylSnow/sheryl-works/blob/master/jumpout-v2.1.gif?raw=true" alt="jumpout"><br><img src="https://github.com/SherylSnow/sheryl-works/blob/master/jumpout-v2.1.gif?raw=true" alt="jumpout"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Selling-UI-规范&quot;&gt;&lt;a href=&quot;#Selling-UI-规范&quot; class=&quot;headerlink&quot; title=&quot;Selling UI 规范&quot;&gt;&lt;/a&gt;Selling UI 规范&lt;/h2&gt;&lt;h3 id=&quot;selling-后台系统&quot;&gt;&lt;a href
+    
+    </summary>
+    
+    
+      <category term="SELLING UI Web" scheme="https://github.com/SherylSnow/tags/SELLING-UI-Web/"/>
+    
+  </entry>
   
   <entry>
     <title>daybyday-3</title>
