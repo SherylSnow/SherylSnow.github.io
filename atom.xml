@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/SherylSnow/"/>
-  <updated>2017-03-13T15:48:12.000Z</updated>
+  <updated>2017-03-13T16:20:34.000Z</updated>
   <id>https://github.com/SherylSnow/</id>
   
   <author>
@@ -14,6 +14,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>DogsPark</title>
+    <link href="https://github.com/SherylSnow/2017/03/14/DogsPark/"/>
+    <id>https://github.com/SherylSnow/2017/03/14/DogsPark/</id>
+    <published>2017-03-13T16:02:13.000Z</published>
+    <updated>2017-03-13T16:20:34.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="爱犬乐园"><a href="#爱犬乐园" class="headerlink" title="爱犬乐园"></a>爱犬乐园</h2><h3 id="爱犬乐园-1"><a href="#爱犬乐园-1" class="headerlink" title="爱犬乐园"></a>爱犬乐园</h3><ul>
+<li><p>爱犬乐园是一个关于宠物犬的生活用品以及户外活动的网站</p>
+<p>生活用品主要是智能产品，如自动喂食器，摄像头，宠物语言翻译机等<br>户外庄园包括，泳池、草坪、障碍跑、日光浴、美容区、宠物蛋糕加工房等</p>
+</li>
+<li><p>下图是首页效果图</p>
+</li>
+</ul>
+<p><img src="https://github.com/SherylSnow/sheryl-works/blob/master/web/爱犬乐园.png?raw=true" alt="jumpout"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;爱犬乐园&quot;&gt;&lt;a href=&quot;#爱犬乐园&quot; class=&quot;headerlink&quot; title=&quot;爱犬乐园&quot;&gt;&lt;/a&gt;爱犬乐园&lt;/h2&gt;&lt;h3 id=&quot;爱犬乐园-1&quot;&gt;&lt;a href=&quot;#爱犬乐园-1&quot; class=&quot;headerlink&quot; title=&quot;爱犬乐园&quot;
+    
+    </summary>
+    
+    
+      <category term="SELLING UI Web" scheme="https://github.com/SherylSnow/tags/SELLING-UI-Web/"/>
+    
+  </entry>
   
   <entry>
     <title>WebUi</title>
